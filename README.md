@@ -10,7 +10,7 @@ Each image corresponds with five instruction-response pairs. Each pair features 
 
 ![image](https://github.com/jq-zh/olive-dataset/assets/164292001/9050cb3b-f263-4f07-8af3-8e37474adb6f)
 
-The dataset is split into 6,750 instruction-response pairs for training, 6,750 pairs for validation, and 33,750 for test. 
+The dataset is split into 6,750 instruction-response pairs for training, 6,750 pairs for validation, and the remaining for test. 
 
 |               | Visual Recognition | Creative Writing | Knowledge-Based | Elaborated Description | Total |
 |:-------------:|:------------------:|:----------------:|:---------------:|:----------------------:|:-----:|
