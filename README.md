@@ -1,5 +1,5 @@
 # OLIVE: Open-world Language Instruction for Visual-language Evaluation
-This repository provides the download instructions for the OLIVE dataset, introduced in the NAACL'24 paper titled ["What Are We Measuring When We Evaluate Large Vision-Language Models? An Analysis of Latent Factors and Biases."](https://openreview.net/pdf/4a61e3a350ac775ec3fa5196beacec80ce26b85b.pdf)
+This repository provides the download instructions for the OLIVE dataset, introduced in the NAACL'24 paper titled ["What Are We Measuring When We Evaluate Large Vision-Language Models? An Analysis of Latent Factors and Biases."](https://arxiv.org/pdf/2404.02415.pdf)
 
 ## About OLIVE
 The OLIVE dataset is a highly diverse, human-corrected multimodal collection designed to simulate the variety and idiosyncrasies of user queries vision-language models (VLMs) face in real-world scenarios. It supports the training and evaluation of VLMs in conditions that more closely resemble their ultimate use cases.
