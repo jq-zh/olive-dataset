@@ -56,3 +56,15 @@ The table below reports the **zero-shot performance** of different models on the
 | **MiniGPT-4**|     ViT-G      |   Vicuna-7B    |  8B  |  1.6   |
 | **mPLUG-Owl**|     ViT-L      |    LLaMA-7B    |  7B  |  4.4   |
 |  **LLaVA**   |     ViT-L      |    LLaMA-7B    |  7B  |  29.6  |
+
+## Citation
+If you find this work useful for your research, please consider citing it. 
+
+```latex
+@inproceedings{tiong2024we,
+  title={What Are We Measuring When We Evaluate Large Vision-Language Models? An Analysis of Latent Factors and Biases},
+  author={Tiong, Anthony Meng Huat and Zhao, Junqi and Li, Boyang and Li, Junnan and Hoi, Steven CH and Xiong, Caiming},
+  booktitle={Proceedings of the 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)},
+  year={2024}
+}
+```
